@@ -27,7 +27,7 @@ Classification:
 
 
 
-Accuracy obtained 98% :
+Accuracy obtained: 98% 
 
 
 ![vgg16_fastai_plot](https://user-images.githubusercontent.com/94075388/204093474-219075c8-fab4-456c-9205-c8bfcb20e467.png)
